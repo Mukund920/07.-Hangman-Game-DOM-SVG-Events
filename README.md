@@ -1,2 +1,31 @@
 # 07.-Hangman-Game-DOM-SVG-Events
 A simple and interactive Hangman game implemented in JavaScript, HTML, and CSS. This game allows players to guess letters of a randomly selected word, trying to figure out the word before making too many incorrect guesses.
+
+## Features
+
+- Randomly selects a word from a predefined list.
+- Displays the hidden word with placeholders for unguessed letters.
+- Tracks and displays correct and incorrect guesses.
+- Shows parts of the hangman figure with each incorrect guess.
+- Displays a notification for duplicate guesses.
+- Offers a "Play Again" button to restart the game.
+- Provides a win/loss message based on the game outcome.
+
+## Installation
+
+To run the Hangman game locally, follow these steps:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/hangman-game.git
+2. Navigate to the project directory:
+   cd hangman-game
+3. Open index.html in your preferred web browser.
+
+## Usage
+- Open the game in your web browser.
+- Guess letters by typing them on your keyboard.
+- Correct guesses will reveal the letters in the hidden word.
+- Incorrect guesses will display parts of the hangman figure.
+- Try to guess the word before making too many incorrect guesses.
+- Click the "Play Again" button to restart the game.
