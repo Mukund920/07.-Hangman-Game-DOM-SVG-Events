@@ -29,3 +29,8 @@ To run the Hangman game locally, follow these steps:
 - Incorrect guesses will display parts of the hangman figure.
 - Try to guess the word before making too many incorrect guesses.
 - Click the "Play Again" button to restart the game.
+
+![hangman game win](https://github.com/user-attachments/assets/417adaac-59e8-4578-94ae-222dd1fe2663)
+
+![hangman game loss](https://github.com/user-attachments/assets/f3eeef29-4671-4b1c-9ef9-eedab04202fd)
+
