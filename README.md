@@ -11,17 +11,6 @@ A simple and interactive Hangman game implemented in JavaScript, HTML, and CSS. 
 - Offers a "Play Again" button to restart the game.
 - Provides a win/loss message based on the game outcome.
 
-## Installation
-
-To run the Hangman game locally, follow these steps:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/hangman-game.git
-2. Navigate to the project directory:
-   cd hangman-game
-3. Open index.html in your preferred web browser.
-
 ## Usage
 - Open the game in your web browser.
 - Guess letters by typing them on your keyboard.
